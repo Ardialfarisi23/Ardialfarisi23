@@ -38,14 +38,10 @@
 ---
 
 ### 🔗 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/ardi-alfarisi-511653323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ardi Alfarisi" height="30" width="40" /></a>
-<a href="https://www.behance.net/ardialfarisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ardialfarisi" height="30" width="40" /></a>
-<a href="https://ardi-portfolio.web.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
-
-<br />
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardi-alfarisi-511653323/)
+[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/ardialfarisi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ardi-portfolio.web.app)
 
 <p align="center">
-  <b>Let's create something <span style="color: #0e75b6;">Impactful</span> together!</b>
+  <b>Let's be <span style="color: #007bff;">Creative</span></b>
 </p>
