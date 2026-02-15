@@ -31,8 +31,12 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ardialfarisi23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ardi's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardialfarisi23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardialfarisi23&show_icons=true&theme=tokyonight&hide_border=true" alt="Ardi's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardialfarisi23&theme=tokyonight&hide_border=true" alt="Ardi's Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardialfarisi23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 ---
