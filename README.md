@@ -1,10 +1,10 @@
-# 🥋 Hi there, I'm Ardi Alfarisi 👋
+# Hi there, I'm Ardi Alfarisi 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ardialfarisi23&label=Profile%20views&color=0e75b6&style=flat" alt="Ardialfarisi23" />
 </p>
 
-### "Building a bridge between logic and aesthetics"
+### "The only thing more powerful than a complex algorithm is a design that understands the human heart."
 *A final-year Information Systems student at **IPI Garut** focused on creating digital products that are minimal yet functional.*
 
 ---
