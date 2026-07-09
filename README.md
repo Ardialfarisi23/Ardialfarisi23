@@ -30,7 +30,7 @@
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardi-alfarisi-511653323/)
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/ardialfarisi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ardi-portfolio.web.app](https://ardialfarisi-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ardialfarisi-portfolio.vercel.app/))
 
 <p align="center">
   <b>Let's be <span style="color: #007bff;">Creative</span></b>
