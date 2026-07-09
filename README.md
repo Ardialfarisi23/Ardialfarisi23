@@ -11,8 +11,6 @@
 
 ### 🚀 Quick Summary
 - 🎓 **Current Status:** Information Systems Student at IPI Garut (GPA 3.72/4.00).
-- 💻 **Main Project:** Developing **[SIM Padepokan Pencak Silat](https://github.com/Ardialfarisi23/sim-padepokan-panglipur)** using Laravel & React.
-- 🎨 **Background:** Graphic Designer Intern at Arfadia & LHealthy Cream.
 - ⚡ **Looking for:** Full-stack Developer or System Analyst Internships.
 
 ---
@@ -32,7 +30,7 @@
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardi-alfarisi-511653323/)
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/ardialfarisi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ardi-portfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ardi-portfolio.web.app](https://ardialfarisi-portfolio.vercel.app/))
 
 <p align="center">
   <b>Let's be <span style="color: #007bff;">Creative</span></b>
